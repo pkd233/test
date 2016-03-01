@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 960 560" style="enable-background:new 0 0 960 560;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#DFEDE3;}
+	.st1{fill:#FEFF2A;}
+	.st2{fill:#FFFFFF;}
+	.st3{fill:#0081AA;}
+	.st4{fill:none;}
+	.st5{fill:#B6B6B4;}
+</style>
+<g id="house_x5F_moon">
+	<g id="background">
+		<ellipse class="st0" cx="99.5" cy="87.374" rx="61.5" ry="58.374"/>
+		<rect x="50" y="419" class="st1" width="317.789" height="131"/>
+		<rect x="161" y="467" class="st2" width="100.397" height="83"/>
+		<polygon class="st3" points="50,419 208.894,289 367.789,419 		"/>
+	</g>
+</g>
+<g id="cloud">
+	<ellipse class="st4" cx="556.5" cy="100.187" rx="28.5" ry="12.813"/>
+	<ellipse class="st5" cx="598.5" cy="97.5" rx="28.5" ry="15.5"/>
+	<ellipse class="st5" cx="627" cy="76.5" rx="28.5" ry="15.5"/>
+	<ellipse class="st5" cx="655.5" cy="87.374" rx="28.5" ry="15.5"/>
+	<ellipse class="st5" cx="627" cy="97.5" rx="28.5" ry="15.5"/>
+	<ellipse class="st4" cx="724.579" cy="139.374" rx="28.5" ry="12.813"/>
+	<ellipse class="st5" cx="766.579" cy="136.687" rx="28.5" ry="15.5"/>
+	<ellipse class="st5" cx="795.079" cy="115.687" rx="28.5" ry="15.5"/>
+	<ellipse class="st5" cx="823.579" cy="126.561" rx="28.5" ry="15.5"/>
+	<ellipse class="st5" cx="795.079" cy="136.687" rx="28.5" ry="15.5"/>
+	<ellipse class="st4" cx="479" cy="184.935" rx="28.5" ry="12.813"/>
+	<ellipse class="st5" cx="521" cy="182.248" rx="28.5" ry="15.5"/>
+	<ellipse class="st5" cx="549.5" cy="161.248" rx="28.5" ry="15.5"/>
+	<ellipse class="st5" cx="578" cy="172.122" rx="28.5" ry="15.5"/>
+	<ellipse class="st5" cx="549.5" cy="182.248" rx="28.5" ry="15.5"/>
+</g>
+<g id="toys">
+	
+		<rect x="563.353" y="491.398" transform="matrix(0.9718 0.236 -0.236 0.9718 137.7977 -160.1644)" class="st3" width="349.453" height="8.5"/>
+	<polygon class="st3" points="764.227,553.593 696.773,554.538 729.682,495.648 	"/>
+</g>
+</svg>
